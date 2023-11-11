@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1637262512 source:c:\users\usuario\desktop\archivos\lib\lista.c
+	"lista.h"
+
+1637246323 c:\users\usuario\desktop\archivos\lib\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1699144073 source:c:\users\usuario\desktop\simulacro 2do parcial laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<malloc.h>
+	<ctype.h>
+	<time.h>
+	"lista.h"
+
+1699111424 c:\users\usuario\desktop\simulacro 2do parcial laboratorio\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1699143550 source:c:\users\usuario\desktop\simulacro 2do parcial laboratorio\lista.c
+	"lista.h"
+
